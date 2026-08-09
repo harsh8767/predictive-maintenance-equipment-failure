@@ -8,11 +8,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 ![Accuracy](https://img.shields.io/badge/Accuracy-99%25-brightgreen)
 ![ROC--AUC](https://img.shields.io/badge/ROC--AUC-96.5%25-success)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render)
 
 
 An end-to-end **Predictive Maintenance and Machine Failure Detection** project that uses **Machine Learning, SQL, Power BI, and Streamlit** to analyze industrial equipment data, identify failure patterns, estimate machine failure probability, and support maintenance decision-making.
 
 The project combines exploratory data analysis, machine learning, business intelligence, and an interactive prediction application into a complete predictive-maintenance workflow.
+
+---
+
+
+# 🚀 Live Demo
+
+🌐 **Try the application here**
+
+[**Open Predictive Maintenance App**](https://predictive-maintenance-equipment-failure.onrender.com)
 
 ---
 
